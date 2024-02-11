@@ -5,7 +5,7 @@ public class Main {
         int whitePaint = n * 2; // количество банок белой краски
         int brownPaint = n * 4; // количество банок коричневой краски
 
-        System.out.println("В школе, где " + n + " классов, нужно " + whitePaint + " банок белой краски и " + brownPaint + " банок коричневой краски.");
+        System.out.println("В школе, где " + n + " классов, нужно " + whitePaint +  " банок белой краски и " + brownPaint + " банок коричневой краски.");
 
 
 
